@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Anuj @anujkr12
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning cpp,java and dsa.
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning cpp, dsa,dbms,data science.
 - 📫 you can contact me through my mail
       ak2308529@gmail.com
 
